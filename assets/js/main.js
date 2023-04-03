@@ -42,7 +42,7 @@ zerar.addEventListener('click', function(event) {
 
 */
 
-// Refatorando o código acima utilizando o objeto "Date()":
+// Refatorando o código acima utilizando o objeto Date() de forma mais simples:
 const h1 = document.querySelector('.container h1')
 const data = new Date()
 
